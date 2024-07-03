@@ -1,0 +1,4 @@
+include:
+  - project: 'mcdis-dep/dev-ops/parts/cicd'
+    ref: main
+    file: '/templates/js_annotation_build_publish_npm_microfront_package.yml'

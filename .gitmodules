@@ -1,0 +1,4 @@
+[submodule "build.shared"]
+	path = build.shared
+	url = ssh://git@git.imbalanced.tech:2222/mcdis/devops/parts/build.shared.git
+	branch = main
